@@ -1,0 +1,152 @@
+fileFormatVersion: 2
+guid: 1c091ff3a2d6a724d91f1f92950068e3
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Tree_A_1
+    100002: Tree_A_2
+    100004: Tree_A_4
+    100006: Tree_A_5
+    100008: Tree_A_6
+    100010: Tree_A_7
+    100012: Tree_B_1
+    100014: Tree_B_2
+    100016: Tree_B_4
+    100018: Tree_B_5
+    100020: Tree_B_6
+    100022: Tree_B_7
+    100024: //RootNode
+    100026: pPlane1
+    100028: pPlane2
+    100030: group
+    100032: pasted__E_grass_02_a
+    100034: pasted__grass30
+    100036: pasted__In_scene
+    100038: polySurface1
+    400000: Tree_A_1
+    400002: Tree_A_2
+    400004: Tree_A_4
+    400006: Tree_A_5
+    400008: Tree_A_6
+    400010: Tree_A_7
+    400012: Tree_B_1
+    400014: Tree_B_2
+    400016: Tree_B_4
+    400018: Tree_B_5
+    400020: Tree_B_6
+    400022: Tree_B_7
+    400024: //RootNode
+    400026: pPlane1
+    400028: pPlane2
+    400030: group
+    400032: pasted__E_grass_02_a
+    400034: pasted__grass30
+    400036: pasted__In_scene
+    400038: polySurface1
+    2300000: Tree_A_1
+    2300002: Tree_A_2
+    2300004: Tree_A_4
+    2300006: Tree_A_5
+    2300008: Tree_A_6
+    2300010: Tree_A_7
+    2300012: Tree_B_1
+    2300014: Tree_B_2
+    2300016: Tree_B_4
+    2300018: Tree_B_5
+    2300020: Tree_B_6
+    2300022: Tree_B_7
+    2300024: pPlane1
+    2300026: pPlane2
+    2300028: pasted__grass30
+    2300030: polySurface1
+    3300000: Tree_A_1
+    3300002: Tree_A_2
+    3300004: Tree_A_4
+    3300006: Tree_A_5
+    3300008: Tree_A_6
+    3300010: Tree_A_7
+    3300012: Tree_B_1
+    3300014: Tree_B_2
+    3300016: Tree_B_4
+    3300018: Tree_B_5
+    3300020: Tree_B_6
+    3300022: Tree_B_7
+    3300024: pPlane1
+    3300026: pPlane2
+    3300028: pasted__grass30
+    3300030: polySurface1
+    4300000: Tree_A_7
+    4300002: Tree_A_1
+    4300004: Tree_A_2
+    4300006: Tree_A_4
+    4300008: Tree_A_5
+    4300010: Tree_A_6
+    4300012: Tree_B_7
+    4300014: Tree_B_1
+    4300016: Tree_B_2
+    4300018: Tree_B_4
+    4300020: Tree_B_5
+    4300022: Tree_B_6
+    4300024: pPlane1
+    4300026: pPlane2
+    4300028: pasted__grass30
+    4300030: polySurface1
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

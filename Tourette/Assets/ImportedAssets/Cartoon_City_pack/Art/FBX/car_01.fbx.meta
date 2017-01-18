@@ -1,0 +1,124 @@
+fileFormatVersion: 2
+guid: 66da779a176a60842bd4e4facf0bd213
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Body
+    100002: //RootNode
+    100004: Collider
+    100006: DiscBrakeFL
+    100008: DiscBrakeFR
+    100010: DiscBrakeRL
+    100012: DiscBrakeRR
+    100014: WheelFL
+    100016: WheelFR
+    100018: WheelRL
+    100020: WheelRR
+    100022: WheelFL.2_1
+    100024: WheelFR.2_2
+    100026: WheelRL.2_1
+    100028: WheelRR.2_1
+    400000: Body
+    400002: //RootNode
+    400004: Collider
+    400006: DiscBrakeFL
+    400008: DiscBrakeFR
+    400010: DiscBrakeRL
+    400012: DiscBrakeRR
+    400014: WheelFL
+    400016: WheelFR
+    400018: WheelRL
+    400020: WheelRR
+    400022: WheelFL.2_1
+    400024: WheelFR.2_2
+    400026: WheelRL.2_1
+    400028: WheelRR.2_1
+    2300000: Body
+    2300002: Collider
+    2300004: DiscBrakeFL
+    2300006: DiscBrakeFR
+    2300008: DiscBrakeRL
+    2300010: DiscBrakeRR
+    2300012: WheelFL.2_1
+    2300014: WheelFR.2_2
+    2300016: WheelRL.2_1
+    2300018: WheelRR.2_1
+    3300000: Body
+    3300002: Collider
+    3300004: DiscBrakeFL
+    3300006: DiscBrakeFR
+    3300008: DiscBrakeRL
+    3300010: DiscBrakeRR
+    3300012: WheelFL.2_1
+    3300014: WheelFR.2_2
+    3300016: WheelRL.2_1
+    3300018: WheelRR.2_1
+    4300000: Body
+    4300002: DiscBrakeRR
+    4300004: DiscBrakeRL
+    4300006: DiscBrakeFL
+    4300008: DiscBrakeFR
+    4300010: Collider
+    4300012: WheelRR.2_1
+    4300014: WheelRL.2_1
+    4300016: WheelFL.2_1
+    4300018: WheelFR.2_2
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .200000003
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
